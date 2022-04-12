@@ -1,0 +1,236 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MacPharma
+</name>
+</assembly>
+<members>
+<member name="T:MacPharma.mydataset.SALES_TABLEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MacPharma.mydataset.arpopupDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MacPharma.mydataset.indiInvoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MacPharma.mydataset.SALES_TABLERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MacPharma.mydataset.arpopupRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MacPharma.mydataset.indiInvoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MacPharma.mydataset.SALES_TABLERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MacPharma.mydataset.arpopupRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MacPharma.mydataset.indiInvoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MacPharma.mydataset">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:MacPharma.mydatasetTableAdapters.SALES_TABLETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MacPharma.mydatasetTableAdapters.arpopupTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MacPharma.mydatasetTableAdapters.indiInvoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:MacPharma.mydatasetTableAdapters.TableAdapterManager.UpdateUpdatedRows(MacPharma.mydataset,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:MacPharma.mydatasetTableAdapters.TableAdapterManager.UpdateInsertedRows(MacPharma.mydataset,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:MacPharma.mydatasetTableAdapters.TableAdapterManager.UpdateDeletedRows(MacPharma.mydataset,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:MacPharma.mydatasetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:MacPharma.mydatasetTableAdapters.TableAdapterManager.UpdateAll(MacPharma.mydataset)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:MacPharma.mydatasetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:MacPharma.mydatasetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:MacPharma.mydatasetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:MacPharma.mydataset1.indiInvoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MacPharma.mydataset1.SALES_TABLEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MacPharma.mydataset1.indiInvoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MacPharma.mydataset1.SALES_TABLERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MacPharma.mydataset1.indiInvoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MacPharma.mydataset1.SALES_TABLERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MacPharma.mydataset1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:MacPharma.mydataset1TableAdapters.indiInvoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MacPharma.mydataset1TableAdapters.SALES_TABLETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:MacPharma.mydataset1TableAdapters.TableAdapterManager.UpdateUpdatedRows(MacPharma.mydataset1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:MacPharma.mydataset1TableAdapters.TableAdapterManager.UpdateInsertedRows(MacPharma.mydataset1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:MacPharma.mydataset1TableAdapters.TableAdapterManager.UpdateDeletedRows(MacPharma.mydataset1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:MacPharma.mydataset1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:MacPharma.mydataset1TableAdapters.TableAdapterManager.UpdateAll(MacPharma.mydataset1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:MacPharma.mydataset1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:MacPharma.mydataset1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:MacPharma.mydataset1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="M:MacPharma.DatabaseOperations.#ctor">
+	<summary>
+ Default our connection to a database in the executable folder
+ </summary>
+</member><member name="M:MacPharma.DatabaseOperations.#ctor(System.String)">
+	<summary>
+ Use a different database then the one in the executable folder.
+ When using this the database must have the same table and fields.
+ </summary>
+	<param name="pDataSource"></param>
+</member><member name="M:MacPharma.DatabaseOperations.LoadCustomers">
+	<summary>
+ Read USA customers from database into a DataTable
+ </summary>
+	<returns></returns>
+	<remarks>
+ Database is assumed to be in the Bin\Debug folder.
+ </remarks>
+</member><member name="M:MacPharma.DatabaseOperations.LoadContactTitles">
+	<summary>
+ Load a list of contact titles.
+ </summary>
+	<returns></returns>
+	<remarks>
+ In a well normalized database we would have a contact tile
+ table and the customer table would have a integer field that
+ would join to the contact title table.
+ </remarks>
+</member><member name="M:MacPharma.DatabaseOperations.RemoveCurrentCustomer(System.Int32)">
+	<summary>
+ Remove a customer by primary key
+ </summary>
+	<param name="pIdentfier"></param>
+	<returns></returns>
+</member><member name="M:MacPharma.DatabaseOperations.AddNewRow(System.String,System.String,System.String,System.Int32@)">
+	<summary>
+ Add a new customer to the database table
+ </summary>
+	<param name="pName"></param>
+	<param name="pContact"></param>
+	<param name="pContactTitle"></param>
+	<param name="pIdentfier"></param>
+	<returns></returns>
+</member><member name="M:MacPharma.DatabaseOperations.UpdateRow(System.Data.DataRow)">
+	<summary>
+ Update a row
+ </summary>
+	<param name="pDataRow"></param>
+	<returns></returns>
+	<remarks>
+ I used Parameters.Add instead of Parameters.AddWithValue
+ where Parameters.AddWithValue is usually best yet wanted to
+ show Parameters.Add as many don't realize this is a viable
+ way to add parameters and really shines when doing multiple
+ adds or updates in say a for-each or for-next.
+ </remarks>
+</member><member name="P:MacPharma.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:MacPharma.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:MacPharma.My.Resources.Resources.mcpharma">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:MacPharma.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

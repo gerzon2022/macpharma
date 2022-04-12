@@ -1,0 +1,78 @@
+C:\Users\CC\AppData\Local\Temporary Projects\MacPharma\bin\Debug\MacPharma.exe.config
+E:\Documents\Visual Studio 2012 Ultimate + Serial key\MacPharma\bin\Debug\MacPharma.exe.config
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\macpharma\bin\Debug\MacPharma.exe.config
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\macpharma\bin\Debug\MacPharma.exe
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\macpharma\bin\Debug\MacPharma.pdb
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\macpharma\bin\Debug\MacPharma.xml
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\macpharma\obj\Debug\MacPharma.Resources.resources
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\macpharma\obj\Debug\MacPharma.vbproj.GenerateResource.Cache
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\macpharma\obj\Debug\MacPharma.exe
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\macpharma\obj\Debug\MacPharma.xml
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\macpharma\obj\Debug\MacPharma.pdb
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\macpharma\obj\Debug\MacPharma.frm_main.resources
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\macpharma\obj\Debug\MacPharma.vbprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2012 Ultimate + Serial key\macpharma\obj\Debug\MacPharma.exe
+E:\Documents\Visual Studio 2012 Ultimate + Serial key\macpharma\obj\Debug\MacPharma.xml
+E:\Documents\Visual Studio 2012 Ultimate + Serial key\macpharma\obj\Debug\MacPharma.pdb
+E:\Documents\Visual Studio 2012 Ultimate + Serial key\macpharma\bin\Debug\MacPharma.exe
+E:\Documents\Visual Studio 2012 Ultimate + Serial key\macpharma\bin\Debug\MacPharma.pdb
+E:\Documents\Visual Studio 2012 Ultimate + Serial key\macpharma\bin\Debug\MacPharma.xml
+E:\Documents\Visual Studio 2012 Ultimate + Serial key\macpharma\obj\Debug\MacPharma.vbprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2012 Ultimate + Serial key\macpharma\obj\Debug\MacPharma.frm_main.resources
+E:\Documents\Visual Studio 2012 Ultimate + Serial key\macpharma\obj\Debug\MacPharma.Resources.resources
+E:\Documents\Visual Studio 2012 Ultimate + Serial key\macpharma\obj\Debug\MacPharma.vbproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2012 Ultimate + Serial key\macpharma\obj\Debug\MacPharma.frmReport.resources
+E:\Documents\Visual Studio 2012 Ultimate + Serial key\macpharma\obj\Debug\RdlCompile.cache
+E:\Documents\Visual Studio 2012 Ultimate + Serial key\macpharma\obj\Debug\RdlCompile.compiled
+E:\Documents\Visual Studio 2012 Ultimate + Serial key\macpharma\bin\Debug\macpharma.accdb
+E:\Documents\Visual Studio 2012 Ultimate + Serial key\macpharma\obj\Debug\MacPharma.frmPreviewInvoice.resources
+E:\Documents\gerz\macpharma\bin\Debug\MacPharma.exe.config
+E:\Documents\gerz\macpharma\bin\Debug\MacPharma.exe.manifest
+E:\Documents\gerz\macpharma\bin\Debug\MacPharma.application
+E:\Documents\gerz\macpharma\bin\Debug\MacPharma.exe
+E:\Documents\gerz\macpharma\bin\Debug\MacPharma.pdb
+E:\Documents\gerz\macpharma\bin\Debug\MacPharma.xml
+E:\Documents\gerz\macpharma\obj\Debug\MacPharma.vbprojResolveAssemblyReference.cache
+E:\Documents\gerz\macpharma\obj\Debug\MacPharma.frm_main.resources
+E:\Documents\gerz\macpharma\obj\Debug\MacPharma.Form2.resources
+E:\Documents\gerz\macpharma\obj\Debug\MacPharma.frmPreviewInvoice.resources
+E:\Documents\gerz\macpharma\obj\Debug\MacPharma.frmReport.resources
+E:\Documents\gerz\macpharma\obj\Debug\MacPharma.frmviewByInvo.resources
+E:\Documents\gerz\macpharma\obj\Debug\MacPharma.Resources.resources
+E:\Documents\gerz\macpharma\obj\Debug\MacPharma.vbproj.GenerateResource.Cache
+E:\Documents\gerz\macpharma\obj\Debug\RdlCompile.cache
+E:\Documents\gerz\macpharma\obj\Debug\RdlCompile.compiled
+E:\Documents\gerz\macpharma\obj\Debug\MacPharma.exe.manifest
+E:\Documents\gerz\macpharma\obj\Debug\MacPharma.application
+E:\Documents\gerz\macpharma\obj\Debug\MacPharma.exe
+E:\Documents\gerz\macpharma\obj\Debug\MacPharma.xml
+E:\Documents\gerz\macpharma\obj\Debug\MacPharma.pdb
+E:\Documents\gerz\macpharma\obj\Debug\MacPharma.frmSetting.resources
+E:\Documents\gerz\macpharma\obj\Debug\MacPharma.frmMenu.resources
+E:\Documents\gerz\macpharma\obj\Debug\MacPharma.frmDaily.resources
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\PortableGit\macpharma\bin\Debug\MacPharma.exe.config
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\PortableGit\macpharma\obj\Debug\MacPharma.exe
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\PortableGit\macpharma\obj\Debug\MacPharma.xml
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\PortableGit\macpharma\obj\Debug\MacPharma.pdb
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\PortableGit\macpharma\bin\Debug\MacPharma.exe.manifest
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\PortableGit\macpharma\bin\Debug\MacPharma.application
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\PortableGit\macpharma\bin\Debug\MacPharma.exe
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\PortableGit\macpharma\bin\Debug\MacPharma.pdb
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\PortableGit\macpharma\bin\Debug\MacPharma.xml
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\PortableGit\macpharma\obj\Debug\MacPharma.vbprojResolveAssemblyReference.cache
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\PortableGit\macpharma\obj\Debug\MacPharma.frm_main.resources
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\PortableGit\macpharma\obj\Debug\MacPharma.Form2.resources
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\PortableGit\macpharma\obj\Debug\MacPharma.frmDaily.resources
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\PortableGit\macpharma\obj\Debug\MacPharma.frmMenu.resources
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\PortableGit\macpharma\obj\Debug\MacPharma.frmPreviewInvoice.resources
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\PortableGit\macpharma\obj\Debug\MacPharma.frmReport.resources
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\PortableGit\macpharma\obj\Debug\MacPharma.frmSetting.resources
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\PortableGit\macpharma\obj\Debug\MacPharma.frmviewByInvo.resources
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\PortableGit\macpharma\obj\Debug\MacPharma.Resources.resources
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\PortableGit\macpharma\obj\Debug\MacPharma.vbproj.GenerateResource.Cache
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\PortableGit\macpharma\obj\Debug\RdlCompile.cache
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\PortableGit\macpharma\obj\Debug\RdlCompile.compiled
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\PortableGit\macpharma\obj\Debug\MacPharma.exe.manifest
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\PortableGit\macpharma\obj\Debug\MacPharma.application
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\PortableGit\macpharma\obj\Debug\MacPharma.frmByDate.resources
+C:\Users\G\Google Drive\PROJECTS\Mcpharma\PortableGit\macpharma\obj\Debug\MacPharma.frmByMonth.resources

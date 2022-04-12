@@ -1,0 +1,9 @@
+E:\Documents\gerz\macpharma\bin\Release\MacPharma.exe.config
+E:\Documents\gerz\macpharma\obj\Release\MacPharma.vbprojResolveAssemblyReference.cache
+E:\Documents\gerz\macpharma\obj\Release\MacPharma.Form2.resources
+E:\Documents\gerz\macpharma\obj\Release\MacPharma.frmPreviewInvoice.resources
+E:\Documents\gerz\macpharma\obj\Release\MacPharma.frmReport.resources
+E:\Documents\gerz\macpharma\obj\Release\MacPharma.frmSetting.resources
+E:\Documents\gerz\macpharma\obj\Release\MacPharma.frmviewByInvo.resources
+E:\Documents\gerz\macpharma\obj\Release\MacPharma.Resources.resources
+E:\Documents\gerz\macpharma\obj\Release\MacPharma.vbproj.GenerateResource.Cache
